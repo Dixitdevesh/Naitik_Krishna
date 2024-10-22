@@ -1,0 +1,151 @@
+ID,Title,Author,Genre,Quantity
+1,To Kill a Mockingbird,Harper Lee,Fiction,10
+2,1984,George Orwell,Dystopian,8
+3,Pride and Prejudice,Jane Austen,Classic,5
+4,The Great Gatsby,F. Scott Fitzgerald,Fiction,4
+5,Moby Dick,Herman Melville,Fiction,3
+6,War and Peace,Leo Tolstoy,Historical Fiction,2
+7,The Catcher in the Rye,J.D. Salinger,Fiction,7
+8,Brave New World,Aldous Huxley,Dystopian,9
+9,The Hobbit,J.R.R. Tolkien,Fantasy,12
+10,Fahrenheit 451,Ray Bradbury,Dystopian,6
+11,The Lord of the Rings,J.R.R. Tolkien,Fantasy,5
+12,Jane Eyre,Charlotte Brontë,Classic,8
+13,Wuthering Heights,Emily Brontë,Classic,4
+14,The Picture of Dorian Gray,Oscar Wilde,Classic,7
+15,The Chronicles of Narnia,C.S. Lewis,Fantasy,10
+16,A Tale of Two Cities,Charles Dickens,Historical Fiction,3
+17,Animal Farm,George Orwell,Dystopian,11
+18,The Grapes of Wrath,John Steinbeck,Fiction,5
+19,Les Misérables,Victor Hugo,Historical Fiction,2
+20,The Catch-22,Joseph Heller,Fiction,6
+21,The Alchemist,Paulo Coelho,Fiction,15
+22,The Diary of a Young Girl,Anne Frank,Biography,9
+23,The Kite Runner,Khaled Hosseini,Fiction,10
+24,The Fault in Our Stars,John Green,Fiction,8
+25,The Hunger Games,Suzanne Collins,Dystopian,11
+26,The Book Thief,Markus Zusak,Fiction,5
+27,Catch Me If You Can,Frank W. Abagnale,Biography,4
+28,The Five People You Meet in Heaven, Mitch Albom,Fiction,6
+29,Good Omens,Neil Gaiman,Terry Pratchett,Fantasy,8
+30,The Road,Cormac McCarthy,Fiction,3
+31,The Shadow of the Wind,Carlos Ruiz Zafón,Fiction,4
+32,The Immortal Life of Henrietta Lacks,Rebecca Skloot,Biography,6
+33,Life of Pi,Yann Martel,Fiction,5
+34,The Art of War,Sun Tzu,Philosophy,10
+35,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,9
+36,The Da Vinci Code,Dan Brown,Thriller,10
+37,Gone Girl,Gillian Flynn,Thriller,5
+38,The Girl on the Train,Paula Hawkins,Thriller,7
+39,The Help,Kathryn Stockett,Fiction,8
+40,The Perks of Being a Wallflower,Stephen Chbosky,Fiction,9
+41,The Time Traveler's Wife,Audrey Niffenegger,Fiction,6
+42,The Lovely Bones,Alice Sebold,Fiction,5
+43,The Secret Life of Bees,Sue Monk Kidd,Fiction,7
+44,The Night Circus,Erin Morgenstern,Fantasy,6
+45,The Giver,Lois Lowry,Dystopian,8
+46,Where the Crawdads Sing,Delia Owens,Fiction,10
+47,Divergent,Veronica Roth,Dystopian,12
+48,The Maze Runner,James Dashner,Dystopian,11
+49,Cinder,Marissa Meyer,Fantasy,6
+50,The Lunar Chronicles,Marissa Meyer,Fantasy,5
+51,Throne of Glass,Sarah J. Maas,Fantasy,9
+52,The Cruel Prince,Holly Black,Fantasy,8
+53,An Ember in the Ashes,Sabaa Tahir,Fantasy,7
+54,Red Rising,Pierce Brown,Science Fiction,8
+55,Station Eleven,Emily St. John Mandel,Science Fiction,6
+56,The Martian,Andy Weir,Science Fiction,10
+57,Ender's Game,Orson Scott Card,Science Fiction,5
+58,Neuromancer,William Gibson,Science Fiction,4
+59,Foundation,Isaac Asimov,Science Fiction,8
+60,Hyperion,Dan Simmons,Science Fiction,5
+61,Altered Carbon,Richard K. Morgan,Science Fiction,7
+62,The Wind-Up Bird Chronicle,Haruki Murakami,Fiction,4
+63,1Q84,Haruki Murakami,Fiction,6
+64,The Brief Wondrous Life of Oscar Wao,Junot Díaz,Fiction,8
+65,The Amazing Adventures of Kavalier & Clay,Michael Chabon,Fiction,5
+66,Atonement,Ian McEwan,Fiction,4
+67,The Goldfinch,Donna Tartt,Fiction,3
+68,All the Light We Cannot See,Anthony Doerr,Fiction,6
+69,The Nightingale,Kristin Hannah,Fiction,5
+70,Little Fires Everywhere,Celeste Ng,Fiction,8
+71,The Vanishing Half,Britt Bennett,Fiction,10
+72,Normal People,Sally Rooney,Fiction,7
+73,The Overstory,Richard Powers,Fiction,4
+74,The Silent Patient,Alex Michaelides,Thriller,9
+75,Big Little Lies,Liane Moriarty,Fiction,8
+76,A Man Called Ove,Fredrik Backman,Fiction,7
+77,Eleanor Oliphant Is Completely Fine,Gail Honeyman,Fiction,6
+78,Before the Fall,Noah Hawley,Thriller,5
+79,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,4
+80,The Cuckoo's Calling,Robert Galbraith,Thriller,6
+81,The Bone Clocks,David Mitchell,Fiction,5
+82,The Invisible Man,H.G. Wells,Science Fiction,4
+83,The Secret History,Donna Tartt,Fiction,6
+84,The Last Thing He Told Me,Laura Dave,Fiction,9
+85,The Chain,Adrian McKinty,Thriller,8
+86,American Dirt,Jeanne Cummins,Fiction,5
+87,The Immortalists,Chloe Benjamin,Fiction,6
+88,The Underground Railroad,Colson Whitehead,Fiction,10
+89,The Nickel Boys,Colson Whitehead,Fiction,4
+90,The Water Dancer,Ta-Nehisi Coates,Fiction,7
+91,Homegoing,Yaa Gyasi,Fiction,5
+92,Circe,Madeline Miller,Fiction,6
+93,The Song of Achilles,Madeline Miller,Fiction,4
+94,The Testaments,Margaret Atwood,Fiction,5
+95,The Handmaid's Tale,Margaret Atwood,Fiction,6
+96,The Book of Longings,Sue Monk Kidd,Fiction,7
+97,The Overstory,Richard Powers,Fiction,5
+98,Where the Forest Meets the Stars,Glendy Vanderah,Fiction,8
+99,The Midnight Library,Matt Haig,Fiction,10
+100,The Paris Library,Janet Skeslien Charles,Fiction,9
+101,The Light We Lost, Jill Santopolo,Fiction,7
+102,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Fiction,6
+103,It Ends with Us,Colleen Hoover,Fiction,8
+104,Beach Read,Emily Henry,Fiction,9
+105,People We Meet on Vacation,Emily Henry,Fiction,7
+106,The Unhoneymooners,Christina Lauren,Fiction,5
+107,Red,White & Royal Blue,Casemiro McQuiston,Fiction,6
+108,Beach Read,Emily Henry,Fiction,8
+109,The Flatshare,Beth O'Leary,Fiction,9
+110,The Wife Between Us,Greer Hendricks,Fiction,7
+111,The Couple Next Door,Shari Lapena,Fiction,6
+112,The Girl with the Louding Voice,Abi Daré,Fiction,5
+113,Such a Fun Age,Kiley Reid,Fiction,4
+114,An American Marriage,Tayari Jones,Fiction,6
+115,The Color Purple,Alice Walker,Fiction,3
+116,Their Eyes Were Watching God,Zora Neale Hurston,Fiction,4
+117,The House on Mango Street,Sandra Cisneros,Fiction,5
+118,The Bluest Eye,Toni Morrison,Fiction,3
+119,Beloved,Toni Morrison,Fiction,2
+120,Song of Solomon,Toni Morrison,Fiction,4
+121,The Joy Luck Club, Amy Tan,Fiction,5
+122,The Kite Runner,Khaled Hosseini,Fiction,10
+123,The Other Americans,Laila Lalami,Fiction,9
+124,The Death of Mrs. Westaway, Ruth Ware,Fiction,6
+125,The Woman in Cabin 10,Ruth Ware,Fiction,8
+126,In a Holidaze,Christina Lauren,Fiction,7
+127,The Guest List,Lucy Foley,Fiction,6
+128,The Hunting Party,Lucy Foley,Fiction,5
+129,The Turn of the Key,Ruth Ware,Fiction,4
+130,One of Us Is Lying,Karen M. McManus,Fiction,10
+131,The Perfect Couple,Elin Hilderbrand,Fiction,8
+132,Two Can Keep a Secret,Karen M. McManus,Fiction,7
+133,Little Secrets,Jennifer Hillier,Fiction,6
+134,The Wife Between Us,Greer Hendricks,Fiction,5
+135,Then She Was Gone,Lisa Jewell,Fiction,9
+136,The Family Upstairs,Lisa Jewell,Fiction,8
+137,The Dating Playbook,Farrah Rochon,Fiction,6
+138,You Are Not Alone,Gilly Macmillan,Fiction,7
+139,Before We Were Strangers,Renée Carlino,Fiction,6
+140,After I Do, Taylor Jenkins Reid,Fiction,5
+141,Daisy Jones & The Six,Taylor Jenkins Reid,Fiction,4
+142,The Paper Palace, Miranda Cowley Heller,Fiction,3
+143,The Midnight Library,Matt Haig,Fiction,2
+144,Project Hail Mary,Andy Weir,Fiction,5
+145,The Martian,Andy Weir,Fiction,6
+146,Red Rising,Pierce Brown,Fiction,4
+147,The Way of Kings,Brandon Sanderson,Fiction,3
+148,The Name of the Wind,Patrick Rothfuss,Fiction,4
+149,City of Stairs,Robert Jackson Bennett,Fiction,2
+150,The Fifth Season,N.K. Jemisin,Fiction,3
