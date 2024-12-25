@@ -4,7 +4,7 @@ import datetime
 library_file = 'library.txt'
 user_file = 'users.txt'
 borrowed_file = 'borrowed.txt'
-fine_rate = 5  # Fine rate per day for late returns
+fine_rate = 5
 
 def initialize_files():
     if not os.path.exists(library_file):
@@ -162,6 +162,49 @@ def view_fines(username):
     else:
         print('No fines due.')
 
+def recommend_books(username):
+    user_categories = []
+    with open(borrowed_file, 'r') as f:
+        records = f.readlines()
+    for record in records:
+        parts = record.strip().split(',')
+        if parts[1] == username:
+            with open(library_file, 'r') as lf:
+                books = lf.readlines()
+            for book in books:
+                if parts[0] in book:
+                    user_categories.append(book.split(',')[3])
+    recommendations = []
+    with open(library_file, 'r') as lf:
+        books = lf.readlines()
+    for book in books:
+        if any(category in book for category in user_categories):
+            recommendations.append(book.strip())
+    print('Recommended books:')
+    for rec in recommendations:
+        print(rec)
+def update_book_details():
+    book_id = input('Enter Book ID to update: ')
+    with open(library_file, 'r') as f:
+        lines = f.readlines()
+    updated = False
+    with open(library_file, 'w') as f:
+        for line in lines:
+            parts = line.strip().split(',')
+            if parts[0] == book_id:
+                print('Enter new details:')
+                title = input('New Title: ') or parts[1]
+                author = input('New Author: ') or parts[2]
+                category = input('New Category: ') or parts[3]
+                parts[1], parts[2], parts[3] = title, author, category
+                line = ','.join(parts) + '\n'
+                updated = True
+            f.write(line)
+    if updated:
+        print('Book details updated successfully!')
+    else:
+        print('Book not found.')
+
 def main():
     initialize_files()
     user = None
@@ -186,7 +229,9 @@ def main():
                     print('6. Search Book')
                     print('7. View Borrowed Books')
                     print('8. View Fines')
-                    print('9. Logout')
+                    print('9.For Book Suggestion')
+                    print('10. for update book details')
+                    print('99. Logout')
                     sub_choice = input('Enter choice: ')
                     if sub_choice == '1':
                         display_books()
@@ -204,7 +249,11 @@ def main():
                         view_borrowed_books(user)
                     elif sub_choice == '8':
                         view_fines(user)
-                    elif sub_choice == '9':
+                    elif sub_choice=='9':
+                     	recommend_books(user)
+                    elif sub_choice=='10':
+                    	update_book_details()
+                    elif sub_choice == '99':
                         user = None
                         break
                     else:
